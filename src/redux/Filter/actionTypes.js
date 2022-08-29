@@ -1,2 +1,2 @@
-export const SATUSCHANGED = 'filter/statusChanged';
+export const STATUSCHANGED = 'filter/statusChanged';
 export const COLORCHANGED = 'filter/colorChanged';

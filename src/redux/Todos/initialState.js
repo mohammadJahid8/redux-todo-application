@@ -1,12 +1,13 @@
 export const initialState = [
     {
         id: 1,
-        text: 'Learn React Js',
+        text: 'Ajke sharadin poralekha korbo',
         completed: true
     },
     {
         id: 2,
-        text: 'Learn Redux',
-        completed: false
+        text: 'Pora sheshe ghurte jabo',
+        completed: false,
+        // color: 'red'
     }
 ]
